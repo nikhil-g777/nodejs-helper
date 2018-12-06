@@ -1,0 +1,1 @@
+This NPM package is useful for common NodejS functionalities
